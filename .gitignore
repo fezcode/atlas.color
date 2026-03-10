@@ -1,0 +1,5 @@
+/build
+/*.exe
+/vendor
+.idea
+.vscode
